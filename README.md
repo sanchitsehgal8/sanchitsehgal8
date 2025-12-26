@@ -1,23 +1,103 @@
-<h1>Hi 👋, I'm Sanchit</h1>
-<p>An aspiring AI and ML innovator, building impactful projects that blend technical expertise with real-world problem solving.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/sanchitsehgal/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchitsehgal8&show_icons=true&locale=en" alt="sanchitsehgal8" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitsehgal8&" alt="sanchitsehgal8" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchitsehgal8&show_icons=true&locale=en&layout=compact" alt="sanchitsehgal8" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchitsehgal8" alt="sanchitsehgal8" /></a></p>
+<h1 align="center">Hi 👋, I'm Sanchit Sehgal</h1>
+
+<h3 align="center">
+Artificial Intelligence • Machine Learning • Data Science
+</h3>
+
+<p align="center">
+I build <b>data-driven AI systems</b> with a strong focus on <b>machine learning fundamentals, deep learning, and real-world deployment</b>.
+</p>
+
+<p align="center">
+Currently pursuing advanced work in <b>AI & Data Science</b>, with hands-on experience across NLP, Computer Vision, and ML system design.
+</p>
+
+---
+
+## 🧠 Technical Focus
+
+- Machine Learning (Supervised & Unsupervised)
+- Deep Learning (CNNs, Transformers)
+- Natural Language Processing
+- Computer Vision
+- Model Evaluation & Explainability
+- End-to-End ML Pipelines
+- Applied AI for real-world datasets
+
+---
+
+## 🛠️ Programming Languages
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42"/>
+</p>
+
+---
+
+## 🤖 ML / AI Frameworks & Libraries
+
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42"/>
+</p>
+
+---
+
+## ⚙️ Tools & Platforms
+
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="42"/>
+</p>
+
+---
+
+## 🚀 Project Domains
+
+- 📊 **Machine Learning Models** – classification, regression, evaluation
+- 🧠 **Deep Learning** – CNN-based vision models, transformer-based NLP
+- 🧪 **Model Explainability** – Grad-CAM, error analysis
+- 🌐 **Applied AI Systems** – training → validation → deployment
+- 🔍 **Data-Centric AI** – preprocessing, feature engineering, debugging
+
+---
+
+## 📈 GitHub Activity & Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sanchitsehgal8&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitsehgal8&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchitsehgal8&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sanchitsehgal8&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sanchitsehgal/">
+<img src="https://img.shields.io/badge/LinkedIn-Sanchit%20Sehgal-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<b>Focused on building correct, explainable, and scalable AI systems.</b>
+</p>
