@@ -1,9 +1,16 @@
-# Hi 👋 I'm Sanchit Sehgal
+<h1 align="center">Hi 👋, I'm Sanchit Sehgal</h1>
 
-**Artificial Intelligence | Machine Learning | Data Science**
+<h3 align="center">
+Artificial Intelligence • Machine Learning • Data Science
+</h3>
 
-I build data-driven AI systems with a strong focus on machine learning fundamentals, deep learning, and real-world deployment.  
-My work spans NLP, Computer Vision, and end-to-end ML pipelines using real, messy datasets.
+<p align="center">
+I build <b>data-driven AI systems</b> with a strong focus on <b>machine learning fundamentals, deep learning, and real-world deployment</b>.
+</p>
+
+<p align="center">
+Currently pursuing advanced work in <b>AI & Data Science</b>, with hands-on experience across NLP, Computer Vision, and ML system design.
+</p>
 
 ---
 
@@ -15,62 +22,74 @@ My work spans NLP, Computer Vision, and end-to-end ML pipelines using real, mess
 - Computer Vision
 - Model Evaluation & Explainability
 - End-to-End ML Pipelines
-- Applied AI Systems
+- Applied AI for real-world datasets
 
 ---
 
 ## 🛠️ Programming Languages
 
-- Python
-- C
-- C++
-- HTML, CSS
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42"/>
+</p>
 
 ---
 
 ## 🤖 ML / AI Frameworks & Libraries
 
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- Pandas
-- OpenCV
-- Seaborn
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42"/>
+</p>
 
 ---
 
 ## ⚙️ Tools & Platforms
 
-- Git & GitHub
-- Postman
-- MATLAB
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="42"/>
+</p>
 
 ---
 
 ## 🚀 Project Domains
 
-- Machine Learning models for classification & regression
-- Deep Learning for vision and language tasks
-- Explainable AI (Grad-CAM, error analysis)
-- Data preprocessing, feature engineering, debugging
-- Training → validation → deployment workflows
+- 📊 **Machine Learning Models** – classification, regression, evaluation
+- 🧠 **Deep Learning** – CNN-based vision models, transformer-based NLP
+- 🧪 **Model Explainability** – Grad-CAM, error analysis
+- 🌐 **Applied AI Systems** – training → validation → deployment
+- 🔍 **Data-Centric AI** – preprocessing, feature engineering, debugging
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanchitsehgal8&show_icons=true&cache_seconds=86400)
+- Actively building AI/ML projects with real-world datasets
+- Focused on end-to-end ML pipelines and applied AI systems
+- Consistent hands-on development across NLP and Computer Vision
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanchitsehgal8&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitsehgal8&layout=compact&cache_seconds=86400)
 
 ---
 
 ## 🌐 Connect
 
-[LinkedIn – Sanchit Sehgal](https://www.linkedin.com/in/sanchitsehgal/)
+<p align="center">
+<a href="https://www.linkedin.com/in/sanchitsehgal/">
+<img src="https://img.shields.io/badge/LinkedIn-Sanchit%20Sehgal-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
 
 ---
 
-*Focused on building correct, explainable, and scalable AI systems.*
+<p align="center">
+<b>Focused on building correct, explainable, and scalable AI systems.</b>
+</p>
