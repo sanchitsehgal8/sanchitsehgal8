@@ -21,18 +21,21 @@
 </div>
 
 
-<div style="display:inline-block">
-  <img src="https://komarev.com/ghpvc/?username=sanchitsehgal8&label=Profile%20views&color=0eed4a&style=for-the-badge" alt="Sanchit's profile views" />
-  <a href="https://www.linkedin.com/in/sanchitsehgal/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/sanchitsehgal8">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="My GitHub Profile">
-  </a>
-  <a href="mailto:sanchitsehgal16@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+<div align="center">
+  <div style="display:inline-block">
+    <img src="https://komarev.com/ghpvc/?username=sanchitsehgal8&label=Profile%20views&color=0eed4a&style=for-the-badge" alt="Sanchit's profile views" />
+    <a href="https://www.linkedin.com/in/sanchitsehgal/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/sanchitsehgal8">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="My GitHub Profile">
+    </a>
+    <a href="mailto:sanchitsehgal16@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+  </div>
 </div>
+
 
 ## About Me:
 • Building applied AI systems using LLMs, NLP, and machine learning models<br><br>
